@@ -1,0 +1,10 @@
+com\capx\assignmentProject\services\StockPriceService.class
+com\capx\assignmentProject\models\Stock.class
+com\capx\assignmentProject\AssignmentProjectApplication.class
+com\capx\assignmentProject\models\User.class
+com\capx\assignmentProject\services\StockService.class
+com\capx\assignmentProject\controllers\StockController.class
+com\capx\assignmentProject\repositories\StockRepository.class
+com\capx\assignmentProject\controllers\UserController.class
+com\capx\assignmentProject\services\UserService.class
+com\capx\assignmentProject\repositories\UserRepository.class
